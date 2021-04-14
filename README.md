@@ -4,7 +4,7 @@ This is an Independent project for Moringa Core Django module, July 13th 2018.
 
 ## Description
 
-Sunsplash is a photo gallery web application to showcase beautiful pictures. Users get can view photos uploaded by admin. Users can see photos based on the location, by clicking on the listed locations in the menu. They can also copy the link to a photo to paste at their discretion. They can also search for photos based on the categories.
+Gallery_app is a photo gallery web application to showcase beautiful pictures. Users get can view photos uploaded by admin. Users can see photos based on the location, by clicking on the listed locations in the menu.  They can also search for photos based on the categories.
 
 ## Features
 - The home page allows users to see various images:
@@ -24,8 +24,6 @@ View the complete site [here](https://sunsplash-sophia.herokuapp.com/)
     - Postgressql
     - Heroku
 
-## Specifications
-To view the user dtories or BDD check the [specs file](specs.md).
 
 ### Prerequisite
 The Sunsplash project requires a prerequisite understanding of the following:
@@ -63,9 +61,22 @@ Create .env file and paste paste the following filling where appropriate:
 ## Known bugs
 No known bugs so far. If found drop me an email.
 
+## Contacts 
+For more assistance contact me here 
+**mmuhawenimana920@daviscollege.com**
 
-## Contributors
-    - Sophia Murage
 
-### Contact Information
-njerimurage92@gmail.com | snmurage1@gmail.com
+## Live link 
+**You can view the project through this link**
+
+
+
+## License 
+* MIT 
+Copyright (c) 2021 **Mireille MUhawenimana**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
