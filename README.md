@@ -13,7 +13,7 @@ Gallery_app is a photo gallery web application to showcase beautiful pictures. U
 - Admin can upload images from a django dashboard
 
 ## View Live Site here
-View the complete site [here](https://sunsplash-sophia.herokuapp.com/)
+View the complete site [here](https://mygalleryappmimi.herokuapp.com/)
 
 
 ## Technologies Used
