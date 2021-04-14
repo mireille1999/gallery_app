@@ -1,6 +1,6 @@
 # gallery_app
 # ![app](https://github.com/mireille1999/gallery_app/blob/main/myGalleryApp/static/images/gallery_app.png)
-This is an Independent project for Moringa Core Django module, July 13th 2018.
+
 
 ## Description
 
