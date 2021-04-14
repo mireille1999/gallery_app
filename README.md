@@ -22,7 +22,7 @@ View the complete site [here](https://mygalleryappmimi.herokuapp.com/)
     - HTML, CSS and Bootstrap
     - JavaScript
     - Postgressql
-    - Heroku
+   
 
 
 ### Prerequisite
