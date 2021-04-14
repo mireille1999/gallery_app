@@ -26,7 +26,7 @@ View the complete site [here](https://sunsplash-sophia.herokuapp.com/)
 
 
 ### Prerequisite
-The Sunsplash project requires a prerequisite understanding of the following:
+The myGalleryApp project requires a prerequisite understanding of the following:
 - Django Framework
 - Python3.6
 - Postgres
