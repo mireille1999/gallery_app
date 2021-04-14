@@ -66,11 +66,6 @@ For more assistance contact me here
 **mmuhawenimana920@daviscollege.com**
 
 
-## Live link 
-**You can view the project through this link**
-
-
-
 ## License 
 * MIT 
 Copyright (c) 2021 **Mireille MUhawenimana**
