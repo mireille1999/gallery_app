@@ -1,0 +1,22 @@
+{%extends 'base.html'%}
+
+{% block content%}
+<div class="container">
+  <br><br>
+  <h3>Taking an image, freezing a moment, reveals how rich reality truly is </h3> <br><br> 
+  <div class="row">
+  {% for image in images%}
+  <div class="col-4">
+     <div class="card" style="width: 18rem;">
+          <img class="card-img-top" src="{{image.Boom.url}}" alt="Card image cap">
+      <div class="card-body">
+           <h5 class="card-title">{{image.img_title}}</h5>
+           <p class="card-text">{{image.img_description}}</p>
+           <a href="{% url 'single' image.id %}" class="btn btn-primary" action="">Display</a>
+      </div>
+    </div>
+  </div>
+  {% endfor%}
+</div>
+</div>
+{% endblock %}
